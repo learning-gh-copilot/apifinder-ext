@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # apifinder-chat-participant
-Repo for example chat participant for LGP book
+Repo for example chat participant for LGC book
 =======
 # Chat Tutorial
 
@@ -9,8 +8,6 @@ Visual Studio Code's Copilot Chat architecture enables extension authors to inte
 This GitHub Copilot Extension sample shows:
 
 - How to contribute a chat participant to the GitHub Copilot Chat view.
-
-![A screenshot of the running extension, showing the @tutor /exercise command](./demo.png)
 
 Documentation can be found here:
 - https://code.visualstudio.com/api/extension-guides/chat
@@ -23,4 +20,4 @@ Documentation can be found here:
 	- Start a task `npm: watch` to compile the code
 	- Run the extension in a new VS Code window
 	- You will see the @apifinder chat participant in the GitHub Copilot Chat view
->>>>>>> 5bd59b9 (initial commit)
+
