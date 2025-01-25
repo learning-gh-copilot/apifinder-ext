@@ -1,4 +1,4 @@
-# apifinder-chat-participant
+# apifinder-ext
 Repo for example chat participant for LGC book
 =======
 # Chat Tutorial
